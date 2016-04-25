@@ -8,6 +8,5 @@ int main(int, char**){
     RayTrace(&image);
 
     image.show("GLFW3+Libpng Image Window Demo");
-//  image.save("/Users/ilucky/Desktop/demo.png");
 	
 }
